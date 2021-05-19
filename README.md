@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: Twitter :- Shreeja Kumari
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Something I'd love to get rich by doing full-time is coding
