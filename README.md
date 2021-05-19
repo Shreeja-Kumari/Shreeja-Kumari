@@ -1,6 +1,4 @@
-### Hello, I'm Shreeja Kumari  👋
-
-Here are some ideas to get you started:
+### Hello, I'm Shreeja Kumari!  👋
 
 - 🔭 I’m currently studying in school
 - 🌱 I’m currently learning Python
@@ -10,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Something I'd love to get rich by doing full-time is coding
-
